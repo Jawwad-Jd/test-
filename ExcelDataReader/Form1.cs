@@ -14,7 +14,9 @@ using System.Data.SqlClient;
 
 namespace ExcelDataReader
 {
-
+    /// <summary>hhfjhjgjhlhgfdefghj;.,m
+    /// hayeeeeeeeeeeeeeeeeeeee yooooyoooooyooooyooooooyooooo
+    /// </summary>you dangroooooooooooooooo
     public delegate void Handler();	// a simple delegate for marshalling calls from event handlers to the GUI thread
 
 
